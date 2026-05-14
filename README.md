@@ -19,7 +19,7 @@ Ensure you are using **Kali Linux** and have root privileges.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/kaisan21/Hack-The-World.git](https://github.com/kaisan21/Hack-The-World.git)
+   git clone https://github.com/kaisan21/Hack-The-World.git
    python3 main.py
 2.**Install the require dependencies:**
-      pip3 install colorama
+      pip3 install colorama. [Note: If you see any error in terminal, please use --break-system-package at the end of colorama]
